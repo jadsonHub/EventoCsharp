@@ -1,0 +1,13 @@
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.exe
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.deps.json
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.json
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.runtimeconfig.dev.json
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.dll
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\bin\Debug\netcoreapp3.1\ProjetoEventos.pdb
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csprojAssemblyReference.cache
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfoInputs.cache
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.AssemblyInfo.cs
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.csproj.CoreCompileInputs.cache
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.dll
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.pdb
+C:\Users\frana\Documents\Aulas C#\ProjetoEventos\obj\Debug\netcoreapp3.1\ProjetoEventos.genruntimeconfig.cache
